@@ -24,6 +24,22 @@
 
 ---
 
+## Windows SmartScreen Warning
+
+Windows may sometimes show a “SmartScreen” warning when launching the installer:  
+
+> Windows protected your PC  
+> Microsoft Defender SmartScreen prevented an unrecognized app from starting.  
+
+This **is not caused by a virus or malware**, but because the app is from an **unrecognized publisher** and certain parameters (tokens, data files, etc.) may be missing.  
+
+To safely run the application:  
+1. Click “More info”.  
+2. Select “Run anyway”.  
+
+The program will then function normally.
+---
+
 ## Usage Guide
 
 1. **Start the Application:** Wait for initialization (a few seconds may be required).  

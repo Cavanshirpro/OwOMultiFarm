@@ -57,12 +57,6 @@ The program will then function normally.
 
 ---
 
-## Screenshots
-
-*Add screenshots here to show the interface and functionality.*
-
----
-
 ## Release Download
 
 - **Latest Version:** [OwO Multi Farm Installer v0.1](https://github.com/Cavanshirpro/OwOMultiFarm/releases/download/v0.1/OwOMultiFarmSetup.exe)  
